@@ -1,0 +1,6 @@
+#Brief description: find out the total salary for all 12 employees if the salary per employee is 1000 USD.
+
+employees= 12
+salary = 1000
+total=employees*salary
+print('Amount of employee salaries:', total, 'USD')
