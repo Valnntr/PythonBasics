@@ -1,0 +1,8 @@
+#Automatically sends an promotional offer to the client when they enter their information
+
+name = input('Client name:')
+package_brought = input('Number of package tours bought:')
+Destination = input('Destination offered')
+print ('Hello,', name)
+print('You have traveled with us', package_brought ,'times already! Do you want to again?') 
+print('Our travel agency is having a sale. Trips to', Destination ,'are 50% off!')
