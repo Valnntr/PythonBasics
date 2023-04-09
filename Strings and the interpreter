@@ -1,0 +1,7 @@
+Task: A travel agency wants to save the customer data when they leave a review in the format (ID number / Name/ Tour that they went on)
+
+id_number = '12451512'
+surname = 'Johnson'
+tour = 'Zanzibar'
+client_data = id_number + '/' + surname + '/' + tour
+print('Client information:',client_data)
